@@ -1,0 +1,4 @@
+/dist/
+node_modules
+selenium-debug.log
+tests_output/*
